@@ -55,6 +55,11 @@ local-rag/
 <img width="1586" height="201" alt="image" src="https://github.com/user-attachments/assets/2e21f761-9361-407f-8032-071454f84f29" />
 
 ---
+### 📌 **4. Streamlit RAG Chatbot Running**
+<img width="1523" height="830" alt="image" src="https://github.com/user-attachments/assets/ed8ee6d8-2655-48bd-9ad1-76ad3d719059" />
+<img width="1404" height="777" alt="image" src="https://github.com/user-attachments/assets/2a50b08c-e2e4-4fe4-90f2-74af1cf2877c" />
+
+---
 
 ## 🚀 Features
 
