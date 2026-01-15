@@ -1,7 +1,7 @@
 
 # 🍕 Local RAG — Restaurant Review Analyzer
 
-### Retrieve & Analyze Restaurant Reviews Using **Ollama + LangChain + ChromaDB**
+### Retrieve & Analyze Restaurant Reviews Using **Ollama Model + LangChain + ChromaDB**
 
 This project is a **Local Retrieval-Augmented Generation (RAG) system** that answers questions about a restaurant based on **realistic customer reviews**.
 
